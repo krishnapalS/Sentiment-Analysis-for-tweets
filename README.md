@@ -1,6 +1,6 @@
 # Sentiment-Analysis-Twitter
 
-##    -Ayush Pareek
+##    -Krishna Pal Deora
 
 [Click here to see a video about this work](https://www.youtube.com/watch?v=rM87H75JNjA)
 
